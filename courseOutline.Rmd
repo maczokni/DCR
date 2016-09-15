@@ -1,0 +1,128 @@
+---
+title: 'LAWS70311: Designing Criminological Research'
+author: "Reka Solymosi"
+date: "15 September 2016"
+logo: uomLogo.png
+output:
+  html_document:
+  includes:
+      in_header: logo.html
+---
+<img src="uomLogo.png" alt="logo" height="100" width="150" style="position:absolute;top:10px;right:10px;" />
+
+##Aims
+The course aims to promote and enhance knowledge, skills and confidence in designing and conducting empirical criminological research. It offers both introductory and advanced sessions focussing on research as process and culminates in an assessed dissertation proposal.
+The course also aims to complement existing dedicated units on quantitative and qualitative data analysis and promote greater engagement and quality in the summer dissertation.
+
+##Learning outcomes
+By the end of the course, students should be able to:
+ 
+- understand the nature of social (criminological) research as a reflexive process
+- formulate original research questions and select research designs suitable for addressing them
+- develop their emerging ideas for the summer dissertation
+- be able to critically engage with high level methodology, and gain more from their reading on the degree as a whole
+
+##Teaching and learning methods
+- 6 x 2-hour sessions for the first six weeks, then 3 x 1 hour practical sessions in weeks 7-9. 
+- Sessions will be interactive, involving a mix of group-work, problem-solving and debates, using multi-media materials where relevant.
+
+##Overview
+- [Introduction and overview: the research process](#sess1)
+- [Defining a research question](#sess2)
+- [Research design: questionnaires and interviews](#sess3)
+- [Collecting data: primary, secondary, and sampling](#sess4)
+- [Beyond the research question: access and ethics, impact and dissemination](#sess5)
+- [Managing a research project](#sess6)
+- [Practical focus (1): Introducing the dissertation](#sess7)
+- [Practical focus (2): Developing your ideas](#sess8)
+- [Practical focus (3): Troubleshooting session](#sess9)
+
+###Introduction and overview: the research process {#sess1}
+
+* Research: what, why and how?
+* What is *Scientific Inquiry* and how does it apply to social science (and crim) reserach?
+* Theory: Knowgledge, Paradigms, Inductive and Deductive Logic
+* The reserach process
+    + Identifying the problem
+    + Research design
+    + Data Collection
+    + Data analysis
+    + Reporting
+ * Quality control: Reliability, Validity, and Generalisabiity 
+ 
+
+_____________________
+
+
+###Defining a research question {#sess2}
+
+
+* What makes a *research* question
+* Falsifiability 
+* Different types of researh questions
+* Reviewing the literature
+
+
+###Research design: questionnaires and interviews {#sess3}
+
+* Planning a research project
+* Methodologies for answering research questions
+* Qualitative and quantitative data and analysis
+* Example: Questionnaires and interviews
+
+###Collecting data: primary, secondary, and sampling {#sess4}
+
+* Operationalising a concept for measurement
+* Primary and Secondary data
+* Sampling design
+- Probability sampling
+     + Simple random sampling,
+     + Stratified sampling
+     + Cluster sampling, and
+     + Systematic sampling 
+- Non-probability sampling
+      + Convenience sample and volunteer bias
+      + Purposive sampling (quota, snowball, and heterogeneous) 
+* Bias
+
+###Beyond the research question: access and ethics, impact and dissemination{#sess5}
+
+- Access
+- Ethics
+- *So what?* and *Who cares?* questions
+- Disseminating your findings - importance of the audience
+
+###Managing a research project{#sess6}
+
+- Setting Mission, Aims, and Objectives
+- S.M.A.R.T.Objectives
+- Project management
+- Time management: the Gantt chart
+- Data management
+- Reference management
+
+
+###Practical focus (1): Introducing the dissertation{#sess7}
+
+###Practical focus (2): Developing your ideas{#sess8}
+
+###Practical focus (3): Troubleshooting session{#sess9}
+
+<!--
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+-->
+
