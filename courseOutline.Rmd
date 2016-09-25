@@ -23,19 +23,39 @@ By the end of the course, students should be able to:
 - be able to critically engage with high level methodology, and gain more from their reading on the degree as a whole
 
 ##Teaching and learning methods
-- 6 x 2-hour sessions for the first six weeks, then 3 x 1 hour practical sessions. 
+- 5 x 2-hour sessions for the first five weeks, then 3 practical sessions. 
+- Sessions will be interactive, involving a mix of group-work, problem-solving and debates, using multi-media materials where relevant.
+
+##Assessment
+- The assessment for this course is a project proposal for the dissertation.  
 - Sessions will be interactive, involving a mix of group-work, problem-solving and debates, using multi-media materials where relevant.
 
 ##Overview
 - [Introduction and overview: the research process](#sess1)
+    + Date: 27/09/16
+    + Venue: Williamson G.33
 - [Defining a research question](#sess2)
+    + Date: 04/10/16
+    + Venue: Williamson G.33
 - [Research design: questionnaires and interviews](#sess3)
+    + Date: 11/10/16
+    + Venue: Williamson G.33
 - [Collecting data: primary, secondary, and sampling](#sess4)
+    + Date: 18/10/16
+    + Venue: Williamson G.33
 - [Beyond the research question: access and ethics, impact and dissemination](#sess5)
-- [Managing a research project](#sess6)
-- [Practical focus (1): Introducing the dissertation](#sess7)
-- [Practical focus (2): Developing your ideas](#sess8)
-- [Practical focus (3): Troubleshooting session](#sess9)
+    + Date: 25/10/16
+    + Venue: Williamson G.33
+- [Managing a research project & Introducing the dissertation](#sess6)
+    + Date: 08/11/16
+    + Venue: Williamson G.33
+- [Practical focus (1): Developing your ideas](#sess7)
+    + Date: 22/10/16
+    + Venue: Williamson G.33
+- [Practical focus (2): Troubleshooting session](#sess8)
+    + Date: 29/11/16
+    + Venue: University Place 4.212
+    + This session is 1-hour only
 
 ###Introduction and overview: the research process {#sess1}
 
@@ -100,13 +120,11 @@ _____________________
 - Time management: the Gantt chart
 - Data management
 - Reference management
+- Introducing the dissertation
 
+###Practical focus (1): Developing your ideas{#sess8}
 
-###Practical focus (1): Introducing the dissertation{#sess7}
-
-###Practical focus (2): Developing your ideas{#sess8}
-
-###Practical focus (3): Troubleshooting session{#sess9}
+###Practical focus (2): Troubleshooting session{#sess9}
 
 <!--
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
