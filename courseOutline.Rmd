@@ -23,8 +23,10 @@ By the end of the course, students should be able to:
 - be able to critically engage with high level methodology, and gain more from their reading on the degree as a whole
 
 ##Teaching and learning methods
-- 5 x 2-hour sessions for the first five weeks, then 3 practical sessions. 
+- 6 x 2-hour sessions for the first five weeks, then 2 practical sessions. 
 - Sessions will be interactive, involving a mix of group-work, problem-solving and debates, using multi-media materials where relevant.
+
+Students will be expected to have done the required preparation before classes, in order to be able to make the most of the sessions
 
 ##Assessment
 - The assessment for this course is a project proposal for the dissertation.  
@@ -68,9 +70,7 @@ By the end of the course, students should be able to:
     + Data Collection
     + Data analysis
     + Reporting
- * Quality control: Reliability, Validity, and Generalisabiity 
  
-
 _____________________
 
 
@@ -89,11 +89,10 @@ _____________________
 * Methodologies for answering research questions
 * Qualitative and quantitative data and analysis
 * Example: Questionnaires and interviews
+ * Quality control: Reliability, Validity, and Generalisabiity 
 
-###Collecting data: primary, secondary, and sampling {#sess4}
+###Sampling {#sess4}
 
-* Operationalising a concept for measurement
-* Primary and Secondary data
 * Sampling design
 - Probability sampling
      + Simple random sampling,
@@ -111,6 +110,7 @@ _____________________
 - Ethics
 - *So what?* and *Who cares?* questions
 - Disseminating your findings - importance of the audience
+- Ways of visualising results
 
 ###Managing a research project{#sess6}
 
