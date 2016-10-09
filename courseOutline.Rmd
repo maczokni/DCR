@@ -39,7 +39,7 @@ Students will be expected to have done the required preparation before classes, 
 - [Defining a research question](#sess2)
     + Date: 04/10/16
     + Venue: Williamson G.33
-- [Research design: questionnaires and interviews](#sess3)
+- [Research design: questionnaires and experiments](#sess3)
     + Date: 11/10/16
     + Venue: Williamson G.33
 - [Collecting data: primary, secondary, and sampling](#sess4)
@@ -90,9 +90,9 @@ _____________________
 
 * Planning a research project
 * Methodologies for answering research questions
-* Qualitative and quantitative data and analysis
-* Example: Questionnaires and interviews
- * Quality control: Reliability, Validity, and Generalisabiity 
+* Questionnaire and survey design
+* Causational analysis
+* Case study: Randomised Control Trial
 
 ###Sampling {#sess4}
 
