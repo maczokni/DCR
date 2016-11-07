@@ -53,11 +53,10 @@ Students will be expected to have done the required preparation before classes, 
     + Venue: Williamson G.33
 - [Practical focus (1): Developing your ideas](#sess7)
     + Date: 22/11/16
-    + Venue: Williamson G.33
+    + Venue: Williamson 4.59
 - [Practical focus (2): Troubleshooting session](#sess8)
     + Date: 29/11/16
-    + Venue: University Place 4.212
-    + This session is 1-hour only
+    + Venue: Williamson 4.59
 
 ###Introduction and overview: the research process {#sess1}
 
