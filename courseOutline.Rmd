@@ -52,7 +52,7 @@ Students will be expected to have done the required preparation before classes, 
     + Date: 08/11/16
     + Venue: Williamson G.33
 - [Practical focus (1): Developing your ideas](#sess7)
-    + Date: 22/10/16
+    + Date: 22/11/16
     + Venue: Williamson G.33
 - [Practical focus (2): Troubleshooting session](#sess8)
     + Date: 29/11/16
