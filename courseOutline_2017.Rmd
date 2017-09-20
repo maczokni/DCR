@@ -1,0 +1,163 @@
+---
+title: 'LAWS70311: Designing Criminological Research'
+author: "Reka Solymosi"
+date: "2017"
+logo: uomLogo.png
+output:
+  html_document:
+  includes:
+      in_header: logo.html
+---
+<img src="uomLogo.png" alt="logo" height="100" width="150" style="position:absolute;top:10px;right:10px;" />
+
+#Aims
+The course aims to promote and enhance knowledge, skills and confidence in designing and conducting empirical criminological research. It offers both introductory and advanced sessions focussing on research as process and culminates in an assessed dissertation proposal.
+The course also aims to complement existing dedicated units on quantitative and qualitative data analysis and promote greater engagement and quality in the summer dissertation.
+
+#Learning outcomes
+By the end of the course, students should be able to:
+ 
+- understand the nature of social (criminological) research as a reflexive process
+- formulate original research questions and select research designs suitable for addressing them
+- develop their emerging ideas for the summer dissertation
+- be able to critically engage with high level methodology, and gain more from their reading on the degree as a whole
+
+#Teaching and learning methods
+- 6 x 2-hour sessions for the first five weeks, then 2 practical sessions. 
+- Sessions will be interactive, involving a mix of group-work, problem-solving and debates, using multi-media materials where relevant.
+
+Students will be expected to have done the required preparation before classes, in order to be able to make the most of the sessions
+
+#Assessment
+- The assessment for this course is a project proposal for the dissertation.  
+- Sessions will be interactive, involving a mix of group-work, problem-solving and debates, using multi-media materials where relevant.
+
+#Overview
+- [Introduction and overview: the research process](#sess1)
+    + Date: 26/09/17
+    + Venue: Williamson 4.08
+- [Defining a research question](#sess2)
+    + Date: 03/10/17
+    + Venue: Williamson 4.08
+- [Research design: questionnaires and experiments](#sess3)
+    + Date: 10/10/17
+    + Venue: Williamson 4.08
+- [Collecting data: primary, secondary, and sampling](#sess4)
+    + Date: 17/10/17
+    + Venue: Williamson 4.08
+- [Beyond the research question: access and ethics, impact and dissemination](#sess5)
+    + Date: 24/10/17
+    + Venue: Williamson 4.08
+- [Managing a research project & Introducing the dissertation](#sess6)
+    + Date: 07/11/17
+    + Venue: Williamson 4.08
+- [Practical focus (1): Developing your ideas](#sess7)
+    + Date: 21/11/17
+    + Venue: Williamson 4.08
+- [Practical focus (2): Troubleshooting session](#sess8)
+    + Date: 28/11/17
+    + Venue: Williamson 4.08
+
+#Session detail
+
+##Introduction and overview: the research process {#sess1}
+
+
+###Key topics
+
+* Research: what, why and how?
+* What is *Scientific Inquiry* and how does it apply to social science (and crim) reserach?
+* Theory: Knowgledge, Paradigms, Inductive and Deductive Logic
+* The reserach process
+    + Identifying the problem
+    + Research design
+    + Data Collection
+    + Data analysis
+    + Reporting
+    
+<!--
+###Reading for the session
+
+- Chapter 1 (pp xviii - 27) ['How to do your research project : a guide for students in education and applied social sciences' by Gary Thomas](https://www.vlebooks.com/vleweb/Product/Index/548988?page=0)
+- Editorial Introduction (pages 1-7) of The [SAGE Handbook of Criminological Research Methods - Edited By David Gadd, Susanne Karstedt, Steven F. Messner.](https://www.dawsonera.com/abstract/9781446254462)
+- Chapter 1 (pp 1-20) of [Designing Research in the Social Sciences - Martino Maggetti, Claudio Radaelli, Fabrizio Gilardi.](http://ebookcentral.proquest.com/lib/manchester/detail.action?docID=1110116)
+- Watch [The Process of Research.](https://www.youtube.com/watch?v=zCdS5Zy5CNE) video 21min 46 
+
+-->
+
+_____________________
+
+
+###Defining a research question {#sess2}
+
+
+* What makes a *research* question
+* Falsifiability 
+* Different types of researh questions
+* Conceptual models
+* Reviewing the literature
+* What is a systematic review
+* What is a meta analysis
+
+
+###Research design: questionnaires and interviews {#sess3}
+
+* Planning a research project
+* Methodologies for answering research questions
+* Questionnaire and survey design
+* Causational analysis
+* Case study: Randomised Control Trial
+
+###Sampling {#sess4}
+
+* Sampling design
+- Probability sampling
+     + Simple random sampling,
+     + Stratified sampling
+     + Cluster sampling, and
+     + Systematic sampling 
+- Non-probability sampling
+      + Convenience sample and volunteer bias
+      + Purposive sampling (quota, snowball, and heterogeneous) 
+* Bias
+
+###Beyond the research question: access and ethics, impact and dissemination{#sess5}
+
+- Access
+- Ethics
+- *So what?* and *Who cares?* questions
+- Disseminating your findings - importance of the audience
+- Ways of visualising results
+
+###Managing a research project{#sess6}
+
+- Setting Mission, Aims, and Objectives
+- S.M.A.R.T.Objectives
+- Project management
+- Time management: the Gantt chart
+- Data management
+- Reference management
+- Introducing the dissertation
+
+###Practical focus (1): Developing your ideas{#sess8}
+
+###Practical focus (2): Troubleshooting session{#sess9}
+
+<!--
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+-->
+
